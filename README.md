@@ -1,4 +1,4 @@
-This will be a step wise guide on how to build a 180° using Arduino.
+This will be a step wise guide on how to build a 180° radar using Arduino.
 First let's see what all software you will require to build this-
 1. Arduino IDE
 2. Processing IDE
